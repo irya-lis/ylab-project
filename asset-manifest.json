@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ylab-project/static/css/main.a031462e.css",
+    "main.js": "/ylab-project/static/js/main.c39bb3bb.js",
+    "index.html": "/ylab-project/index.html",
+    "main.a031462e.css.map": "/ylab-project/static/css/main.a031462e.css.map",
+    "main.c39bb3bb.js.map": "/ylab-project/static/js/main.c39bb3bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a031462e.css",
+    "static/js/main.c39bb3bb.js"
+  ]
+}
