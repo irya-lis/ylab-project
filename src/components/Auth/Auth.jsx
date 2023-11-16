@@ -67,7 +67,7 @@ const Auth = () => {
 
     return (
         <>
-            <div className={styles.img}><img src={"logo.jpg"} alt="logo"/></div>
+            <div className={styles.img}><img src={"https://irya-lis.github.io/ylab-project/logo.jpg"} alt="logo"/></div>
             <h2 className={styles.title}>Login to Your Account</h2>
             <div className={styles.login_container}>
 
