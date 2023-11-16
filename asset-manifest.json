@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ylab-project/static/css/main.a031462e.css",
+    "main.css": "/ylab-project/static/css/main.1e51df2d.css",
     "main.js": "/ylab-project/static/js/main.06ea63c1.js",
     "index.html": "/ylab-project/index.html",
-    "main.a031462e.css.map": "/ylab-project/static/css/main.a031462e.css.map",
+    "main.1e51df2d.css.map": "/ylab-project/static/css/main.1e51df2d.css.map",
     "main.06ea63c1.js.map": "/ylab-project/static/js/main.06ea63c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a031462e.css",
+    "static/css/main.1e51df2d.css",
     "static/js/main.06ea63c1.js"
   ]
 }
